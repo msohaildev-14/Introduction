@@ -55,17 +55,17 @@ A role-based university management system designed to streamline academic operat
 
 Key Features
 
-Role-based access and authorization
+- Role-based access and authorization
 
-Student and teacher management
+- Student and teacher management
 
-Attendance, assignments, and results
+- Attendance, assignments, and results
 
-Department and course management
+- Department and course management
 
-Administrative workflows
+- Administrative workflows
 
-Tech Stack: React.js, Node.js, Express.js, MongoDB
+- Tech Stack: React.js, Node.js, Express.js, MongoDB
 
 2. Netflix Clone
 
@@ -73,25 +73,28 @@ A responsive streaming-platform-inspired interface developed to practice modern 
 
 Key Features
 
-Responsive user interface
+- Responsive user interface
 
-Interactive components
+- Interactive components
 
-Modern web design
+- Modern web design
 
-Reusable frontend elements
+- Reusable frontend elements
 
-Tech Stack: HTML, CSS, JavaScript, React.js
+- Tech Stack: HTML, CSS, JavaScript, React.js
 
 Current Learning Goals
 
-Strengthening Data Structures and Algorithms
+- Strengthening Data Structures and Algorithms
 
-Building production-oriented MERN applications
+- Building production-oriented MERN applications
 
-Improving backend architecture and API security
+- Improving backend architecture and API security
 
-Learning deployment, scalability, and performance optimization
+- Learning deployment, scalability, and performance optimization
 
-Developing SEO-friendly and accessible websites
+- Developing SEO-friendly and accessible websites
 
+Let's Connect
+
+- GitHub: msohaildev-14
