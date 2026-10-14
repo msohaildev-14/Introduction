@@ -39,4 +39,4 @@ I'm a Software Engineering Technology student passionate about building modern, 
 - Git and GitHub
 - Visual Studio Code
 - Postman
-- Verc
+- Vercel
