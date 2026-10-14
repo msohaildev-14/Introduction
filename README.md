@@ -40,3 +40,58 @@ I'm a Software Engineering Technology student passionate about building modern, 
 - Visual Studio Code
 - Postman
 - Vercel
+  
+Additional Interests
+- Search Engine Optimization (SEO)
+- Responsive Web Design
+- Web Performance Optimization
+- AI Integration
+
+Featured Projects
+
+1. University ERP / LMS Portal
+
+A role-based university management system designed to streamline academic operations and university workflows.
+
+Key Features
+
+Role-based access and authorization
+
+Student and teacher management
+
+Attendance, assignments, and results
+
+Department and course management
+
+Administrative workflows
+
+Tech Stack: React.js, Node.js, Express.js, MongoDB
+
+2. Netflix Clone
+
+A responsive streaming-platform-inspired interface developed to practice modern frontend development.
+
+Key Features
+
+Responsive user interface
+
+Interactive components
+
+Modern web design
+
+Reusable frontend elements
+
+Tech Stack: HTML, CSS, JavaScript, React.js
+
+Current Learning Goals
+
+Strengthening Data Structures and Algorithms
+
+Building production-oriented MERN applications
+
+Improving backend architecture and API security
+
+Learning deployment, scalability, and performance optimization
+
+Developing SEO-friendly and accessible websites
+
